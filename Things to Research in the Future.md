@@ -1,6 +1,12 @@
+- <span style="color:#0070c0">College education</span>
+- <span style="color:#0070c0">Immigration and US Border Issues</span>
+- Hitler's Rise to Power
+- Nuclear fission/nuclear chemistry
 - US History
 - Iranian History
 - Porn Addiction
-- Immigration and US Border Issues
 - *Roe v. Wade* and what "implied rights" are
-- College education
+- Bosnian Genocide
+- Myanmar Rohingya Genocide
+- Taiwan
+- Azerbaijan - Armenia

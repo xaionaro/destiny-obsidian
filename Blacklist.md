@@ -32,29 +32,30 @@ Liv Lav Lie
 February 21st, 2024 - indefinite
 Obsession with talking about my genitals/lying about our hook-up/being vapid and toxic in every server she's in.
 
-NikoSam
-February 21st, 2024 - indefinite
-Unhinged/schizofrenic chatter. 
-
-Bad Empanada
-March 5th, 2024 - indefinite
-Doxxing, death threats, general unhinged behavior.
-
-President Sunday
-March 5th, 2024 - September 5th, 2024
-Unhinged personal obsession with my hair/divorce/beard/life in general.
-
 Lauren DeLaguna
 March 6th, 2024 - March 6th, 2025
 Unhinged.
 
+## Super Blacklist
+1. Bad Empanada
+	1. March 5th, 2024 - indefinite
+	2. Doxxing, death threats, general unhinged behavior.
+2. President Sunday
+	1. March 5th, 2024 - September 5th, 2024
+	2. Unhinged personal obsession with my hair/divorce/beard/life in general.
 
-Journalists
-- Ryan Grim
-- Jeremy Scahill
-- Max Blumenthal
-Publications
-- The Intercept
-- The Greyzone
-- Oct7thfactcheck
-- Mondoweiss
+
+
+- Journalists
+	- Ryan Grim
+	- Jeremy Scahill
+	- Max Blumenthal
+- Publications
+	- Left leaning
+		- The Intercept
+		- The Greyzone
+		- Oct7thfactcheck
+		- Mondoweiss
+	- Right leaning
+		- The Federalist
+			- [Blatant lies about what was included in the January 6th Select Committee report.](https://thefederalist.com/2024/03/08/exclusive-liz-cheney-january-6-committee-suppressed-exonerating-evidence-of-trumps-push-for-national-guard/)

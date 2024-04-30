@@ -245,6 +245,4 @@ Source - [What we know about unauthorized immigrants living in the U.S.](https:/
 # Border Security
 # Ellis Island
 # Current Events
-
-
-
+- [How to Fix America’s Immigration Crisis](https://www.nytimes.com/interactive/2024/01/09/opinion/immigration-in-one-chart.html) January 9th, 2024, by Steven Rattner and Maureen White

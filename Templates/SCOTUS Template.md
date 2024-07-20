@@ -14,3 +14,4 @@ Neat summary of dissenting opinions with references to the dissent. Include conc
 2. contrary opinions
 # Notes
 Active note-taking while reading.
+# Questions for me to Research

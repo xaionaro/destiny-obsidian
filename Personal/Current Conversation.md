@@ -23,6 +23,7 @@ Things to create notes on
 - What is "Qualified Immunity"?
 - https://www.supremecourt.gov/opinions/23pdf/22-976_e29g.pdf
 - Tucker Carlson Dominion Fox News Suit
+- CHAZ
 ________
 
 https://www.nbcnews.com/think/opinion/did-trump-kushner-ignore-blue-state-covid-19-testing-deaths-ncna1235707
@@ -41,3 +42,11 @@ TRUMP FAMILY MEMBER POSITIONS
 https://www.mcsweeneys.net/articles/the-complete-listing-atrocities-1-1-056#2017
 
 What would a non-Hitler Trump do in Trump's position?
+
+https://www.cnn.com/2024/01/25/politics/gop-senators-angry-trump-immigration-deal/index.html
+https://www.youtube.com/watch?v=dVcq6-GZ5ls&t=175s
+https://www.youtube.com/watch?v=kJxzEs7NERU&t=78s
+https://x.com/BidenHQ/status/1782902085891022877
+
+__________
+Current Conversation

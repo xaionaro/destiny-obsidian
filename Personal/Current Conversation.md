@@ -27,6 +27,8 @@ Things to create notes on
 - Macro Econ Course
 - Propositional Logic Course
 - Who classifies things in the United States?
+- Vegas shooting story
+- Genetic Race Stuff
 ________
 
 https://www.nbcnews.com/think/opinion/did-trump-kushner-ignore-blue-state-covid-19-testing-deaths-ncna1235707
@@ -53,11 +55,3 @@ https://x.com/BidenHQ/status/1782902085891022877
 
 __________
 Current Conversation
-
-
-
-- What culture?
-- "Constitution"
-- Dictator on Day 
-
-

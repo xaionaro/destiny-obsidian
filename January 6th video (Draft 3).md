@@ -13,6 +13,7 @@ At no point is there a genuine interest in discovering voter fraud or pursuing a
 	- Mike Pence
 #### Presentation
 - Fox News calls it for Arizona, leaving the Trump camp in shambles. Trump attempts to call the election immediately, but Pence comes up and reminds everyone that every vote will be counted.
+## Rising Action
 ### Voter Fraud Claims (>November 3rd - December 3rd)
 This section will open up with character introductions, then introducing the voter fraud claims. Voter fraud claims started before the election even took place, and then continued well after it took place, with almost all of them being shot down, many times instantly. Here we’ll focus on three, obvious lies, implicating all of the major Trump players, with two resolving in lawsuits in which the accusers admit to essentially fabricating the claims.
 #### Characters
@@ -231,26 +232,19 @@ The false electoral slates were the ace in the hole for the Trump admin. If the 
 	- Marc Short
 #### Presentation
 - With the DoJ scheme having failed, all of the court cases failing, and none of the state legislatures coming on board to flip their electoral votes, Pence is the only person remaining. On January 4th, a massive meeting happens between Trump, Eastman, Pence, Short and Jacob.
+## Climax
 ### January 6th, 2021
 #### Characters
 - 
 #### Presentation
-- 
+- Speech on the day of, reinforcing every single one of the prior plot points. The one guy attempting to drop the fake electors off to Pence's staff.
+- The actual J6 timeline.
+- Pence during January 6th.
+## Resolution
 ### Aftermath
+Showing the outcomes of all of the 3 major voter fraud cases
+Outcomes of all of the J6 arrests
+Outcomes of all of Trump's court cases
+Focus on the 
 
-
-
-
-- Donald Trump
-	- Giuliani
-	- Powell
-	- Clark
-	- Chesebro
-	- Eastman
-- Mike Pence
-	- Short/Jacob
-	- Raffensperger/Germany
-	- Herschmann, Cipollone, Engel, 
-	- Barr
-	- Rosen
-	- Donoghue
+JD Vance about the electoral fraud stuff now

@@ -242,7 +242,7 @@ https://www.cramer.senate.gov/2020judicialrulings
 - False Slates
 	- [Arizona](https://www.archives.gov/files/foia/az-full-1.pdf), [Georgia](https://www.archives.gov/files/foia/ga-full.pdf), [Michigan](https://www.archives.gov/files/foia/mi-full.pdf), [Nevada](https://www.archives.gov/files/foia/nv-full.pdf), [Pennsylvania](https://www.archives.gov/files/foia/pa-cov-full.pdf), [Wisconsin](https://www.archives.gov/files/foia/wi-full.pdf) and [New Mexico](https://www.archives.gov/files/foia/nm-full.pdf) 
 	- [All fake vs real slates together](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F5zhbiykzxhmd1.png)
-	- Arizona [fake electors](https://x.com/AZGOP/status/1338592046043447296) ([also](https://www.youtube.com/watch?v=LJQT7osSVMQ)) meeting vs [actual electors](https://www.youtube.com/watch?v=HNTtYVSl_jc)
+	- Arizona [fake electors](https://x.com/AZGOP/status/1338592046043447296) ([also](https://www.youtube.com/watch?v=LJQT7osSVMQ)) ([also](https://www.facebook.com/watch/?v=225374972446043)) meeting vs [actual electors](https://www.youtube.com/watch?v=HNTtYVSl_jc)
 	- Georgia [fake electors](https://www.youtube.com/watch?v=7rdwwIWIG0E) meeting vs [actual electors](https://www.youtube.com/watch?v=GVZSuxiI3H0)
 	- Michigan [fake electors](https://www.youtube.com/watch?v=P_NgLQxMV9c&t=97s) meeting vs [actual electors](https://youtu.be/ONQlNLECzS8?t=74)
 	- Nevada [fake electors](https://x.com/DawnsMission/status/1338568475476836352) meeting vs [actual electors](https://www.youtube.com/watch?v=zvKt0fFPg90)
@@ -497,3 +497,26 @@ https://www.washingtonpost.com/nation/2024/03/10/trump-ken-block-campaign-fraud-
 
 “Prove Mike Wrong Challenge” was successful at refuting Mike's claims:
 https://apnews.com/article/mike-lindell-election-denial-arbitration-award-a9b27dd8d37eab1d0f22111566fezba93#
+
+19:58  Eban: Destiny 34 CASES ARE DONE BEFORE DECEMBER, TRY TO SAVE THIS SO YOU DON'T HAVE TO REVIEW LATER 
+
+testimony about Trump saying maybe Pence deserves it
+
+Videos - 
+
+J6 commitee
+- 1 https://www.youtube.com/watch?v=hZ0yNe3cFx4
+- 2 https://www.youtube.com/watch?v=pr5QUInmGI8&t=7015s
+- 3 https://www.youtube.com/watch?v=vBjUWVKuDj0&t=871s
+- 4 https://www.youtube.com/watch?v=xa43_z_82Og
+- 5 https://www.youtube.com/watch?v=Z4535-VW-bY&t=3987s
+- 6 https://www.youtube.com/watch?v=HeQNV-aQ_jU
+- 7 https://www.youtube.com/watch?v=rrUa0hfG6Lo&t=10439s
+- 8 https://www.youtube.com/watch?v=pbRVqWbHGuo
+- 9 https://www.youtube.com/watch?v=IQvuBoLBuC0
+court cases - 
+- 1 https://docs.google.com/spreadsheets/d/1KBp4hMv3adDBpSy2hSLL6GHmJMqCBD0jPzSWkf7MaTc/edit?gid=0#gid=0
+- 2 https://docs.google.com/spreadsheets/d/1l2DtYIPQGNAtOqtQEoKZLoK_USxBJ1GnnrNLsxW5rTo/edit?gid=0#gid=0
+j6 stuff
+- commitee
+- https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf

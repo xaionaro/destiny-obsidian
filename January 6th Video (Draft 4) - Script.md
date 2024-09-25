@@ -162,6 +162,58 @@ Play video above, fade in Trump Tweets at around 45 seconds.
 Barr was asked by Almost immediately after the election, Donald Trump demanded he begin opening federal investigations of voter fraud across the states he lost. When asked why he even opened the investigations proactively, rather than waiting for credible evidence to emerge, Barr said...
 - June 2nd, 2022 | N/A - [January 6th Committee](https://youtu.be/Z4535-VW-bY?t=1271) 20:51-21:23 (don't include "no fraud" part yet) & 21:30-21:43
 ### "The Kraken"
+*A flurry of lawsuits were launched by Trump and his allies after November 3rd, with over 60 complaints filed by December 1st.*
+- Montage of the following clips all together flowing from one to the next, ending on Trump's remarks from the 5th...
+- November 4th, 2020 | N/A - [Global News](https://www.youtube.com/watch?v=GxmQwQOaQgw) 0:00-0:11
+- November 4th, 2020 | N/A - [NBC News](https://www.youtube.com/watch?v=4ePcmJlVZyI) 0:00-0:21
+- November 5th, 2020 | N/A - [FOX59 News](https://www.youtube.com/watch?v=sQV6Y_Y2skU) 0:25-0:34
+- November 5th, 2020 | N/A - [Sky News](https://www.youtube.com/watch?v=VIzsYyG2h-Q) 1:56-2:16
+- November 5th, 2020 | N/A - [WXYZ-TV Detroit](https://www.youtube.com/watch?v=2-vM0uefb1I) 0:00-0:09
+- November 10th, 2020 | N/A - [Click on Detroit](https://www.youtube.com/watch?v=6VLj15kNAWA) 0:00-0:20
+- November 12th, 2020 | N/A - [KTNV Channel 13 Coverage](https://www.youtube.com/watch?v=HeOw0ecKLZE) 0:00-0:09
+- November 13th, 2020 | N/A - [PBS NewsHour](https://www.youtube.com/watch?v=sfZamUFl4Zw) 0:00-0:12
+- November 14th, 2020 | N/A - [Fox News with Lou Dobbs](https://youtu.be/uJUj_KdgT_Q?t=348) 5:48-5:51
+- November 5th, 2020 | N/A - [White House Remarks from Trump](https://www.youtube.com/watch?v=-jpH2jjDrMk) 15:07-15:41
+### Electoral Slate Fraud
+*As mentioned earlier, there is nothing inherently wrong with challenging a process or procedure if you felt as though a law was broken or a right was violated. Donald Trump and his associates had every right to pursue whatever instances of voter fraud they saw fit, assuming the lawsuits were being filed in good faith and all of the underlying material was true, to the best of their knowledge. The Trump campaign was facing a few major obstacles, however. The affidavits supporting their lawsuits weren't alleging a level of fraudulent behavior that was likely to significantly impact the outcome of any of the State elections, let alone the entire election itself. And time was not working in their favor. Barely a month away, on December 14th, the State electors would be voting and transmitting their votes to Congress to be counted on the 6th. What if Trump's team was able to find some kind of fraud, but the Electors had already placed their votes? What if they weren't able to find enough fraud to significantly challenge the election at all?*
+
+*There was a darker option that pursued, in the event that all litigation failed and state legislatures weren't persuaded to change their votes at all. But first, we need to discuss a few more concepts and introduce a few more characters.*
+**Concept Introduction**
+- **The Electoral Count Act**
+	- On-Screen Text
+		- The [Electoral Count Act of 1887](https://govtrackus.s3.amazonaws.com/legislink/pdf/stat/24/STATUTE-24-Pg373.pdf)
+	- *Ten years after the extremely contentious presidential election of 1876, Congress passed the Electoral Count Act. This statute set forth an actual framework and procedure by which the States are to certify their Electoral votes and how to transmit them to Congress. Once transmitted to Congress, the act dictates how Congress is to go about counting each Electoral votes, with an opportunity for Congress to dispute any of the Electoral votes if they had been handled improperly by the States.*
+	- *To be clear, the challenging of the Electoral votes on January 6th was never in any way meant to be a way to challenge voter fraud. As per the ECA, it was only ever meant as a means to clear up any confusion about submitted votes, and "no electoral vote or votes from any State which shall have been regularly given by electors whose appointment has been lawfully certified to according to section three of -this act from which but one return has been received shall be rejected."*
+**Character Introduction**
+- **John Eastman**
+	- On-Screen Text
+		- Founding director of the Center for Constitutional Jurisprudence
+		- Former professor and former dean of Chapman University School of Law
+	- *John Eastman became associated with Trump's campaign on December 9th, when he filed a motion to intervene in the Texas v. Pennsylvania case before the Supreme Court. In the aforementioned case, Texas sought to challenge the electoral college results of several other states. On December 12th, the Supreme Court rejected the case, finding that Texas had no right to challenge the electoral processes of other States. Regardless of the outcome, Eastman was on the Trump's radar, and would later join Trump as a personal attorney on January 2nd to assist him and others in filing suits alleging voter fraud.
+Kenneth Chesebro was an attorney from Wisconsin who began working with the Trump campaign at the request of Jim Troupis, another lawyer for Trump's campaign, around November 9th, a day after requested to work with the campaign.*
+- November 8th, 2020 | N/A - [Kenneth Chesebro email](https://www.wpr.org/wp-content/uploads/2024/03/Pages-from-Troupis-008910-Troupis-010348-2.pdf)
+- November 18th, 2020 | N/A - [Kenneth Chesebro memo](https://int.nyt.com/data/documenttools/trump-electors-memo-november/6dfa71755c7d0879/full.pdf)
+*Chesebro and Troupis texted back and forth over a memo Chesebro was drafting relating to how Trump could challenge the election results in Wisconsin.
+- November 17th-19th, 2020 | N/A - [Text Messages](https://app.box.com/s/ifis7hu74dz6xp0awkq567ygetrvcof1/file/1460147814268) (page 17-18)
+*On the 18th, Chesebro finalized the memo and sent it to Troupis. In the email, he laid the groundwork for what Trump's team would eventually pursue, which was the creation of seven fraudulent slates of electors.*
+
+*In Chesebro's memo, he argued that the important date for the certification of the State elections wasn't actually the 14th of December, the deadline set by the ECA for the States to transmit their votes, but rather January 6th, when the votes were to be counted by Congress. His argument was, if the state legislatures agreed to send two sets of elector slates, as Hawaii had in 1960 when a recount was required to determine the actual winner, perhaps the Trump campaign could extend the amount of time available to them to discover enough fraud to overturn the election results in some key states.*
+- November 7th, 2020 | N/A - [Kenneth Chesebro secret Twitter account](https://web.archive.org/web/20201107181652/https:/twitter.com/BadgerPundit/status/1325140117497896966) uncovered by [CNN](https://www.cnn.com/2024/02/26/politics/kenneth-chesebro-secret-twitter-account-kfile/index.html)
+*John Eastman, not yet officially associated with Trump's campaign, had already publicly encouraged state legislatures to simply certify the Republican electors for their states, forgoing the outcomes of the elections of the swing states in favor of simply choosing Trump as the winner instead.*
+- December 3rd, 2020 | N/A - [John Eastman before the Georgie State Legislature](https://www.youtube.com/watch?v=xa43_z_82Og&t=1813s) 30:13-30:37
+*On December 6th, Chesebro sends another email to Troupis, encouraging them to pursue a "bold, controversial strategy" by stressing the importance of having electors vote on December 14th.
+- December 6th, 2020 | N/A - [Kenneth Chesebro Email to James Troupis](https://www.justsecurity.org/wp-content/uploads/2024/05/just-security-clearinghouse-chesebro-memorandum-december-6-2020.pdf)
+- December 6th, 2020 | N/A - [Mark Meadows email to Jason Miller](https://i0.wp.com/www.justsecurity.org/wp-content/uploads/2022/07/word-image-81939-3.png?w=665&ssl=1)
+*That same day, Mark Meadows, the White House Chief of Staff, forwarded the November 18th Memo from Chesebro to the Trump Campaign Senior Advisor Jason Miller. 
+- June 2022 | N/A - [Court Order](https://www.justsecurity.org/wp-content/uploads/2022/06/january-6-clearinghouse-judge-carter-eastman-documents-order-june-7-2002.pdf) page 20
+*By December 8th, Trump had made the decision to aggressively pursue having alternate slates of electors filled out and transmitted across the seven swing states they'd lost, even if the State legislatures themselves wouldn't approve any. Meadows and Miller immediately began the work to gather the 79 needed Republican electors.*
+- December ?, 2020 | N/A - [January 6th Select Committee](https://youtu.be/xa43_z_82Og?t=3998) 1:06:38-1:06:52
+- December ?, 2020 | N/A - [January 6th Select Committee](https://youtu.be/xa43_z_82Og?t=4035) 1:07:15-1:07:52
+## Recap
+*Even though the results on November 3rd weren't quite what Trump was hoping for, there were still many paths, some legitimate and some not as much, for Trump to remain in the White House. Powell and the rest of Trump's legal team had filed dozens of lawsuits across several states, the public was becoming inflamed with the idea of rampant voter fraud and election corruption, and the DoJ had been set to work to uncover any and all evidence that the results of the election were illegitimate. Ideally, State legislatures would begin to see the arguments the Trump camp was putting forth, forcing them to And, if all else failed, Trump and his team might have a crazy shot at simply dismissing the valid electoral votes in Congress, substituting them with their own fraudulently prepared batch of electors.*
+
+*Not everything had been going perfectly, however...*
+## Barr's Final Days
 
 ## Aftermath
 **Character Updates**
@@ -202,7 +254,12 @@ Barr was asked by Almost immediately after the election, Donald Trump demanded h
 	- On-Screen Text
 		- Graduated from the University of North Carolina School of Law in 1987
 		- One of the youngest federal prosecutors in the United States
-
-
-Giuliani Fake Elector Arrest - https://www.youtube.com/watch?v=Q3JM8CNvhnw
-Barr saying the election fraud stuff was bullshit - https://youtu.be/xa43_z_82Og?t=1561
+- **John Eastman**
+	- On-Screen Text
+		- Founding director of the Center for Constitutional Jurisprudence
+		- Former professor and former dean of Chapman University School of Law
+## Incorporate Somehow
+- Giuliani Fake Elector Arrest - https://www.youtube.com/watch?v=Q3JM8CNvhnw
+- Barr saying the election fraud stuff was bullshit - https://youtu.be/xa43_z_82Og?t=1561
+- November 26th-29th , 2020 - Trump staff [calling](https://youtu.be/xa43_z_82Og?t=2000) PA Legislator, Bryan Cutler
+- December 1st, 2020 - Arizona Governor Doug Ducey [ignores a phone call](https://www.youtube.com/watch?v=0zmwjAJ7pAk&t=43s) from Trump while certifying the vote

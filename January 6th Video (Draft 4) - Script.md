@@ -1,6 +1,7 @@
 # Introduction
 ## Montage/Compilation
 - Showing clips from each of the key segments, mostly weighted in "favor" of the Trump narrative, e.g. showing clips of how they present their voter fraud, Trump speeches, crowds protesting/chanting, CNN/MSNBC attacking him, etc...
+- September 29th, 2018 | N/A - [Real Time with Bill Maher](https://www.youtube.com/watch?v=egVlN-kBjZg&t=494s) 8:18-9:31
 ## Opening Statement
 ### Narration
 *On January 6th, 2021, tens of thousands of citizens marched down Pennsylvania Avenue towards the US Capitol Building to protest the reported outcome of the 2020 US Presidential Election. Reports of voter fraud of all kind, including ballot harvesting, fraudulent signatures, sabotaged voting machines, illegal procedures and all other manner of malfeasance had ignited concerns among the Republican party, pushing them to follow Trump in asking the Congress for more time to present their case to the courts and legislatures of 7 different swing states. The events on January 6th escalated past the point most people had foreseen, leading to millions of dollars in damage, hundreds of injuries and a protestor, Ashli Babbitt, shot dead inside the Capitol Building.*
@@ -207,15 +208,115 @@ Kenneth Chesebro was an attorney from Wisconsin who began working with the Trump
 *That same day, Mark Meadows, the White House Chief of Staff, forwarded the November 18th Memo from Chesebro to the Trump Campaign Senior Advisor Jason Miller. 
 - June 2022 | N/A - [Court Order](https://www.justsecurity.org/wp-content/uploads/2022/06/january-6-clearinghouse-judge-carter-eastman-documents-order-june-7-2002.pdf) page 20
 *By December 8th, Trump had made the decision to aggressively pursue having alternate slates of electors filled out and transmitted across the seven swing states they'd lost, even if the State legislatures themselves wouldn't approve any. Meadows and Miller immediately began the work to gather the 79 needed Republican electors.*
-- December ?, 2020 | N/A - [January 6th Select Committee](https://youtu.be/xa43_z_82Og?t=3998) 1:06:38-1:06:52
-- December ?, 2020 | N/A - [January 6th Select Committee](https://youtu.be/xa43_z_82Og?t=4035) 1:07:15-1:07:52
+- Late November, 2020 | N/A - [January 6th Select Committee](https://youtu.be/xa43_z_82Og?t=3998) 1:06:38-1:06:52
+- Early December, 2020 | N/A - [January 6th Select Committee](https://youtu.be/xa43_z_82Og?t=4035) 1:07:15-1:07:52
 ## Recap
-*Even though the results on November 3rd weren't quite what Trump was hoping for, there were still many paths, some legitimate and some not as much, for Trump to remain in the White House. Powell and the rest of Trump's legal team had filed dozens of lawsuits across several states, the public was becoming inflamed with the idea of rampant voter fraud and election corruption, and the DoJ had been set to work to uncover any and all evidence that the results of the election were illegitimate. Ideally, State legislatures would begin to see the arguments the Trump camp was putting forth, forcing them to And, if all else failed, Trump and his team might have a crazy shot at simply dismissing the valid electoral votes in Congress, substituting them with their own fraudulently prepared batch of electors.*
+*Even though the results on November 3rd weren't quite what Trump was hoping for, there were still many paths, some legitimate and some not as much, for Trump to remain in the White House. Powell and the rest of Trump's legal team had filed dozens of lawsuits across several states, the public was becoming inflamed with the idea of rampant voter fraud and election corruption, and the Department of Justice had been set to work to uncover any and all evidence that the results of the election were illegitimate. Ideally, State legislatures would begin to see the arguments the Trump camp was putting forth, forcing them to And, if all else failed, Trump and his team might have a crazy shot at simply dismissing the valid electoral votes in Congress, substituting them with their own fraudulently prepared batch of electors.*
 
 *Not everything had been going perfectly, however...*
 ## Barr's Final Days
+*Filing lawsuit is easy. Finding evidence of crimes that didn't happen, though, is much, much harder.*
+- ? | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=3308) 55:07-55:59
+*Barr and the Department of Justice hadn't been able to find evidence for any of the voter fraud claims made concerning the election.*
+- November 23rd, 2020 | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=3373) 56:14-58:35
+*Perhaps, Barr thought, by the end of November Trump had finally come around to letting go of his election claims..?*
+- November 23rd-29th, 2020 | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=3530) 58:50-59:08
+- November 29th, 2020 | N/A - [Maria Bartiromo on Fox News](https://www.youtube.com/watch?v=szStcNBIL68) 0:00-0:24 & 1:09-1:27
+*Trump and his allies in the House had instead gone on the attack. Trump laid into the Department of Justice with scathing remarks on Fox News while House Republicans authored a letter to Barr, excoriating him for the "shocking lack of action from the Justice Department following \[his] directive."
+- December 1st, 2020 | N/A - [House Letter to Barr](https://allen.house.gov/uploadedfiles/12.1.20_election_integrity_letter_to_attorney_general_barr.pdf)
+*Between Trump's comments and the House Republicans questioning his integrity, Barr had had enough. He called the Associated Press for an interview, airing his frustrations over the pressure from the president to find any evidence of voter fraud.*
+- December 1st, 2020 | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=3607) 1:00:07-1:00:30
+- December 1st, 2020 | N/A - [Associated Press Barr Interview](https://apnews.com/article/barr-no-widespread-election-fraud-b1f1488796c9a98c4b1a9061a6c7f49d) 
+- December 1st, 2020 | N/A - [Associated Press Video](https://www.youtube.com/watch?v=X0k0a0v4Dbo) 0:00-0:32
+*Barr did this, fully expecting to be fired at a previously scheduled meeting just hours after the interview.*
+- December 1st, 2020 | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=3607) 1:00:30-1:03:35
+*Barr continued to lead the Department of Justice for another two weeks, but was still unable to verify any of the claims being made by Trump and his team of personal attorneys.*
+- December 14th, 2020 | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=3890) 1:04:50-1:06:40
+*Barr wasn't giving Trump what he needed to convince States to change their electoral votes.*
+- December 14th, 2020 | N/A - [January 6th Select Committee Barr Testimony](https://youtu.be/pr5QUInmGI8?t=4188) 1:09:47-1:10:02
+*Barr's frustrations with the president's refusal to engage with reality became too much to bear. On December 14th, Barr resigned from the DoJ.*
+- December 14th, 2020 | ? - [January 6th Select Committee Barr Testimony](https://x.com/January6thCmte/status/1535052278889054218) 0:00-0:51
+Montage of Trump firing Barr...
+- December 14th, 2020 | N/A - [Democracy Now!](https://www.youtube.com/watch?v=Aumq9ZST0N8) 0:00-0:25
+- December 14th, 2020 | N/A - [CBS Evening News](https://www.youtube.com/watch?v=Vqw0g3CDi-g) 0:00-0:48
+- December 14th, 2020 | N/A - [ABC News](https://www.youtube.com/watch?v=6PUowXlob3o) 0:00-0:08
+- December 14th, 2020 | N/A - [Fox News](https://www.youtube.com/watch?v=witoSg7TSQU) 0:00-0:22
+- December 14th, 2020 | 17:39 ET - [Donald Trump Tweets](https://x.com/realDonaldTrump/status/1338614499981602819?lang=en) 
+*Perhaps with Barr out, a new Department of Justice could help him find the voter fraud he so desperately sought to keep his dreams of a second term alive.*
+## The Road to January 6th
+### Pence's Story
+*This wasn't the first time Pence had been forced to grin and bear unsupported allegations of voter fraud. Trump had made many of the same claims back in 2016, even though he'd won that election.*
+- October 16th, 2016 | N/A - [Face The Nation Pence Interview](https://youtu.be/qHRJNbfs8ro?t=320) 5:20-5:48
+- December 4th, 2016 | N/A - [ABC Interview with Pence](https://x.com/thisweekabc/status/805448210609119232) 0:00-1:41
+*Despite a commission put together to find evidence of voter fraud in 2016, Pence was forced to tell fellow Republicans in a private meeting that absolutely no credible evidence had been found.*
+- January 27th, 2017 | N/A - [Washington Post Private Pence Meeting](https://www.washingtonpost.com/powerpost/in-private-meeting-pence-vows-full-evaluation-of-voting-rolls-over-claims-of-voting-fraud/2017/01/27/1c1fa1de-e49a-11e6-a547-5fb9411d332c_story.html) (just the article)
+**Character Introduction**
+- **Mike Pence**
+	- On-Screen Text
+		- U.S. House of Representatives Member from Indiana (Jan 3, 2001 - Jan 3, 2013)
+		- Chair of the House Republican Conference (Jan 3, 2009 - Jan 3, 2011)
+		- Governor of Indiana (Jan 14th, 2013 - Jan 9th, 2017)
+		- 48th Vice President of the United States (Jan 20th, 2017 - Jan 20th, 2021)
+	- *Mike Pence, likely chosen by Trump's campaign to shore up evangelical votes and other traditional parts of the Republican electorate. At the time, Trump was not a very popular guy with the Republican electorate, and Pence was the [most conservative](https://fivethirtyeight.com/features/mike-pence-would-be-a-really-conservative-and-mostly-unknown-vp-pick/) vice-presidential candidate in the last 40 years, according to FiveThirtyEight.*
+*In 2020, Pence still wasn't supportive the statements alleging fraud and rigged elections that his running mate was comfortable airing out to any media that would listen. He hung back, quietly in the background as part of the ticket, but always attempted to redirect the conversation to conservative talking points that he felt were more important, rather than get bogged down unsupported claims of fraud.
 
+*After his statement in the twilight hours of November 4th, saying that they'd wait until all of the votes were counted before declaring themselves the winners, Pence largely disappeared from the media for the rest of the year.
+- December 2nd, 2020 | N/A - [TheDailyBeast on Pence](https://www.thedailybeast.com/mike-pence-backs-away-from-the-trump-election-fraud-train-wreck)
+*Pence made a few lukewarm statements about election irregularities, and tweeted a couple of news stories about recount efforts in Georgia, but always without any comment attached.
+- November 20th, 2020 | N/A - [Pence Rally in Georgia](https://youtu.be/z2X-k3P6P-c?t=154) 2:34-3:06
+*On January 6th, 2021, for about 12 hours, Mike Pence would play the most important role in protecting the Democracy of the United States*
+- October 16th, 2020 | N/A - [Face the Nation Pence Interview](https://youtu.be/qHRJNbfs8ro?t=424) 7:03-7:12
+### Voter Fraud
+*On the voter fraud front, the Trump camp and their media partners had received their marching orders loud and clear. All parties had begun to amplify an assortment of voter fraud claims, regardless of any evidence for what was being asserted.*
+#### The Pennsylvania Claim
+- November 17th, 2020 | N/A - [Giuliani on CBS 17](https://www.youtube.com/watch?v=wpMA11ceJl0) 0:00-0:0
+- November 25th, 2020 | N/A - [KPIX CBS News on Giuliani](https://www.youtube.com/watch?v=CKh5xc2ht8M) 0:33-0:53
+- November 25th, 2020 | N/A - [CBS Pittsburgh](https://www.youtube.com/watch?v=9M6ZJvJsTl8) 0:03-0:14
+- November 25th, 2020 | N/A - [The Independent](https://youtu.be/ohe2dQbNJwM?t=1871) 31:11-32:05 & 2:12:24-2:12:37 & 2:16:34-2:16:47
+- November 26th, 2020 | N/A - [MSNBC](https://www.youtube.com/watch?v=4HCIdVZEHSc) 0:22-0:50
+- November 25th, 2020 | 08:37 ET - [Election Law Blog](https://electionlawblog.org/?p=119069)
+- December 28th, 2020 | 1300 ET - [Trump Tweet](https://media.snopes.com/2020/12/trumptweet1.png)
+- December 28th, 2020 | N/A - [PA State Representative Statement](https://www.repdiamond.com/News/18754/Latest-News/PA-Lawmakers-Numbers-Don%E2%80%99t-Add-Up,-Certification-of-Presidential-Results-Premature-and-In-Error)
+- December 29th, 2020 | 08:59 ET - [Trump Tweet](https://x.com/realDonaldTrump/status/1343919651336712199)
+General reactions in Pennsylvania
+- November 5th, 2020 | N/A - [Sky News](https://www.youtube.com/watch?v=LGwLxsTydSA) 0:00-0:20
+- November 5th, 2020 | N/A - [Sky News](https://www.youtube.com/watch?v=xJwzAoTaplc) 0:00-0:19
+- November 5th, 2020 | N/A - [CBS Philadelphia](https://www.youtube.com/watch?v=5PMuOWLYSWY) 0:00-0:09
+#### The Georgia Claim
+- December 3rd, 2020 | N/A - [Trump's YT Channel](https://www.youtube.com/watch?v=nVP_60Hm4P8) 
+- December 3rd, 2020 | N/A - [Sean Hannity](https://www.foxnews.com/media/sean-hannity-2020-election-georgia-nevada-suspicious-suitcases) 0:00-0:20 (and article)
+- December 5th, 2020 | N/A - [Donald Trump rally](https://www.youtube.com/watch?v=hKBZemnS1j4&t=1116s) 18:38-18:56
+- December 5th, 2020 | 16:53 - [Restoration of America](https://www.facebook.com/restorationamerica/posts/1002133710271567/) page
+- December 10th, 2020 | N/A - [Giuliani Testimony to Georgia House of Representatives](https://youtu.be/9EfgETUKfsI?t=6899) 1:54:59-1:56:07
+- December 10th, 2020 | N/A - [Trump Reposting the video onto his channel](https://www.youtube.com/watch?v=aCenojrUwVM) just show his YT channel posting the video
+- December 10th, 2020 | N/A - [Trump's YouTube Channel](https://www.youtube.com/watch?v=Oh5j7s1H7ek) 0:00-0:53
+General reactions in Georgia
+- November 14th, 2020 | N/A - [Atlanta News First](https://www.youtube.com/watch?v=HqDytCTbLTc) 0:15-0:22 & 0:32-0:41
+- November 22nd, 2020 | N/A - [11Alive](https://www.youtube.com/watch?v=UdASorY7HwM) 0:00-0:19
+#### The Dominion Claim
+- November 10th, 2020 | N/A - [OAN](https://www.youtube.com/watch?v=jAIu5HG8CRU) 0:00-0:27
+- November 11th, 2020 | 23:17 ET - [Trump Tweet](https://x.com/realDonaldTrump/status/1326740844427304960?ref_src=twsrc%5Etfw)
+- November 12th, 2020 | 11:48 ET - [OAN Video](https://x.com/RudyTakala/status/1326929877400948738) 0:00-0:07
+- November 12th, 2020 | 11:34 ET - [Trump Tweet](https://x.com/realDonaldTrump/status/1326926226888544256) quoting OANN
+- November 12th, 2020 | |N/A  - [Sean Hannity video on Trump's Channel](https://www.youtube.com/watch?v=YeEW1oeLaVE) 0:00-0:24
+- November 12th, 2020 | N/A - [Steve Bannon's War room](https://www.youtube.com/watch?v=n23BG2X37iI) 6:49-7:26
+- November 19th, 2020 | N/A - [Press Conference](https://www.youtube.com/watch?v=RUlyQSjtE8c&t=2314s) 38:34-38:55 by Sydney Powell just laying out blatant lies about Dominion voting machines.
+- November 25th, 2020 | N/A - [King et all v Whitmer](https://storage.courtlistener.com/recap/gov.uscourts.mied.350905/gov.uscourts.mied.350905.1.0_2.pdf) ctrl + f "Dominion"
+- November 26th, 2020 | N/A - [Trump White House Broadcast](https://youtu.be/JTbV0b4bjgI?t=1407) 23:36-23:47
+	- November 27th, 2020 | N/A - [Sean Hannity Rebroadcast](https://www.facebook.com/SeanHannity/posts/410578213685468/?rdid=HVwwA5Vb19CuwDf7) rebroadcasting the same thing
+- December 2nd, 2020 | N/A- [Trump White House Broadcast](https://www.rev.com/transcript-editor/shared/gUMvbDx-X0lLb7ovCKGamd7wuMyiSSOiPClk2bnYmXCG2oOezO9bALNJOeHhrVo3YsCqXAxQzq9xw7guWrKWP_0q7WU?loadFrom=SharedClip&ts=646.68&te=661.68) 10:47-11:03
+- December 3rd, 2020 | N/A - [Lindell on America First with Gorka](https://www.facebook.com/AmericaFirstGorka/videos/438439460653478/) @ 6:42-6:46
+- December 15th, 2020 | 05:21 ET - [Trump Tweet](https://media-cdn.factba.se/realdonaldtrump-twitter/1338715842931023873.jpg)
+- December 16th, 2020 | 06:09 ET - [Trump Tweet](https://media-cdn.factba.se/realdonaldtrump-twitter/1339090279429775363.jpg)
+- December 19th, 2020 | 16:30 ET - [Trump Tweet](https://media-cdn.factba.se/realdonaldtrump-twitter/1340333619299147781.jpg)
+
+## January 6th, 2021
+Clips from the Ellipse speeches overlaid with timeline of what happens on that day
 ## Aftermath
+- Ideas
+	- Fade out is either chants of "Hang Mike Pence", "Stop the Steal" or "4 More Years"
+	- Footage of JD Vance saying he wouldn't certify the election
+	- Trump's Speech, saying he doesn't want to say the election is over
 **Character Updates**
 - **Steve Bannon**
 	- On-Screen Text (fade-out of old text, bolding of new text)
@@ -260,6 +361,11 @@ Kenneth Chesebro was an attorney from Wisconsin who began working with the Trump
 		- Former professor and former dean of Chapman University School of Law
 ## Incorporate Somehow
 - Giuliani Fake Elector Arrest - https://www.youtube.com/watch?v=Q3JM8CNvhnw
-- Barr saying the election fraud stuff was bullshit - https://youtu.be/xa43_z_82Og?t=1561
 - November 26th-29th , 2020 - Trump staff [calling](https://youtu.be/xa43_z_82Og?t=2000) PA Legislator, Bryan Cutler
 - December 1st, 2020 - Arizona Governor Doug Ducey [ignores a phone call](https://www.youtube.com/watch?v=0zmwjAJ7pAk&t=43s) from Trump while certifying the vote
+- How crazy Powell's claims were - https://youtu.be/pr5QUInmGI8?t=3127
+- December 2nd Trump saying what Barr had JUST THE DAY BEFORE ARGUED AGAINST - https://youtu.be/pr5QUInmGI8?t=3847
+- Trump saying maybe Mike Pence should have been hanged lol - https://www.axios.com/2021/11/12/trump-hang-mike-pence-january-6-audio
+## Future concerns?
+- JD Vance not certifying Election
+- More elector schemes? https://www.tiktok.com/@dariarosereal/video/7416956705621249311?_r=1&_t=8pwvEB57OKx

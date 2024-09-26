@@ -509,6 +509,7 @@ J6 commitee
 - 2 https://www.youtube.com/watch?v=pr5QUInmGI8&t=7015s
 - 3 https://www.youtube.com/watch?v=vBjUWVKuDj0&t=871s
 - 4 https://www.youtube.com/watch?v=xa43_z_82Og
+	- Has Barr, lots of Georgia stuff
 - 5 https://www.youtube.com/watch?v=Z4535-VW-bY&t=3987s
 - 6 https://www.youtube.com/watch?v=HeQNV-aQ_jU
 - 7 https://www.youtube.com/watch?v=rrUa0hfG6Lo&t=10439s

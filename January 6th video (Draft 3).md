@@ -78,7 +78,7 @@ The false electoral slates were the ace in the hole for the Trump admin. If the 
 #### Presentation
 - Bill Barr has given up on trying to verify any of the alleged voter fraud from earlier. Trump continually throws the DoJ under the bus, resulting in Barr giving an interview to the Associated Press to dispel myths that the DoJ wasn’t doing anything to investigate. Bill Barr would eventually resign, after a big shouting match over dinner, on the 14th.
 ## More Building
-### Pence’s Story (November 15th - December 27th)
+### Pence’s Story (November 15th - December 4th)
 #### Characters
 - Bad Guys
 	- Donald Trump
@@ -91,8 +91,6 @@ The false electoral slates were the ace in the hole for the Trump admin. If the 
 #### Presentation
 - Since November 15th, Pence had only tweeted or retweeted things about voting irregularities. Pence had no signed on to any of Trump’s conspiracies yet, saying he would “keep fighting until every legal vote is counted” and “every illegal vote is thrown out.”
 - On December 8th, Jacobs begins to advise the VP on the illegality of Eastman’s theory.
-- Memos reveal that Eastman didn’t believe the claims would ever even go to court. They just wanted Trump to remain president for as long as possible from December 14th and December 22nd.
-- On December 27th, Gomert filed a court case to pressure Pence against certifying the election.
 ### Voter Fraud Claims (November 28th - January 3rd)
 - Showing all of the repetition throughout Trump’s camp and others on social media amplifying the voter fraud claims.
 #### Characters

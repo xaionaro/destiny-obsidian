@@ -12,9 +12,61 @@
 11. "[A SARS-like cluster of circulating bat coronaviruses shows potential for human emergence](https://pmc.ncbi.nlm.nih.gov/articles/PMC4797993/)" Nature Medicine. November 9th, 2015.
 12. "[The Huanan Seafood Wholesale Market in Wuhan wasthe early epicenter of the COVID-19 pandemic](https://www.science.org/doi/epdf/10.1126/science.abp8715)" Nature. August 26th, 2022.
 13. "[Early Transmission Dynamics in Wuhan, China, of Novel Coronavirus–Infected Pneumonia](https://www.nejm.org/doi/full/10.1056/NEJMoa2001316)" New England Journal of Medicine. January 29th, 2020.
+14. "[Biology of the SARS-CoV-2 Coronavirus](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839213/)" Biochemistry. January 13th, 2023.
+15.  "[The lifecycle of SARS-CoV-2. Scientific version](https://www.youtube.com/watch?v=XlOi2hVGtg0)"
+16.  "[Mechanisms of SARS-CoV-2 entry into cells](https://www.nature.com/articles/s41580-021-00418-x)"
 # Background
+## [SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839213/)
+### Naming
+- SARS-CoV-2 stands for Severe Acute Respiratory Syndrome Coronavirus 2
+	- "Severe", meaning the virus' disease can be life-threatening.
+	- "Acute", meaning the symptoms are sudden and worsen very quickly.
+	- "Respiratory", meaning the virus replicates easiest in the respiratory system.
+	- It is a part of the coronavirus (named due to the shape of the protruding, club-shaped spikes) group, which are enveloped viruses with a positive-sense (meaning they can be read by the host ribosomes), single-stranded RNA genome contained inside of a nucleocapsid. They range from 26-32 kilobases in size, one of the largest among RNA viruses. SARS-CoV-2's gnome has about 29,903 nucleotide bases, or 29.9 kilobases.
+### Structure and Genome
+- Structure
+	- Spherical shaped virion, with a diameter of 80-120 nm, maintained by four structural proteins.
+		- Spike Protein (S) (128-160 kDa)
+			- It is surrounded by spike proteins, which are trimers, each composed of 3, long molecular chains of more than 1,273 amino acid residues.
+			- Each of these trimers are composed of three monomers, which are then broken down into two subunits, S1 and S2.
+				- The S1 subunits main role is to bind SARS-CoV-2 to a host cell's angiotensin-converting enzyme 2, or ACE-2.
+					- ACE-2 is found in cells in the intestines, kidneys, testis, gallbladder and heart.
+				- The part of the S1 subunit that binds to ACE2 is called the RBD, or Region Binding Domain, or, more specifically, a part of the RBD, called the RBM, or Receptor Binding Motif
+			- Determines tropism of the virus, or which cells it can infect via binding.
+			- Infected cells with S proteins on the surface can also infect neighboring cells via cell-cell fusion.
+		- Membrane Protein (M)
+			- Supports the viral envelope, contains small inclusions of the envelope protein. Determines the shape and size of the viral capsid.
+			- Interaction of M and S is necessary to retain S protein in the ERGIC and its inclusion in newly created virions.
+			- Binding of M and N stabilizes nucleocapsid as well as inner core of the virion and contributes to completion of virus assembly.
+		- Envelope Protein (E) (8-12 kDa)
+			- Small, integral protein anchored into the membrane. Modulates the process of virion release.
+		- Nucleocapsid Protein (N)
+			- Helically symmetrical nucleocapsid which is formed by a single-stranded genomic RNA coated by nucleocapsid protein.
+			- Localized in the endoplasmic reticulum and the Golgi apparatus, and involved in the assembly and budding of viral particles.
+- Genome
+	- 26-32 kilobases in length.
+		- 16 non-structural proteins (nsp1-16).
+		- 4 structural proteins (S, M, N, and E, as described above).
+		- 11 accessory proteins (ORF3a, ORF3b, ORF3c, ORF3d, ORF6, ORF7a, ORF7b, ORF8, ORF9b, ORF9c, and ORF10).
+### Lifecycle
+1. S protein interacts with host cell receptor and activates fusion of the virus with the cell membrane after being cleaved by the cell surface protease.
+2. Gemonic RNA, once inside the cell, is immediately recognized and translated by the ribosome, creating polyproteins which then process non-structural proteins.
+3. Formation of the double-membrane vesicles occurs in the endoplasmic reticulum membranes.
+4. Genomic sense RNA is converted into antisense form of genomic and subgenomic RNAs.
+5. Antisense form is then converted back into the sense form of genomic and subgenomic RNAs.
+6. Subgenomic mRNAs are translated in the ER into structural and accessory proteins.
+7. Genomic RNA interacts with N protein, forming a nucleocapsid.
+8. Nucleocapsid combines with structural proteins to form a virion.
+9. The mature virion released from the cell by exocytosis.
+- "[The lifecycle of SARS-CoV-2. Scientific version](https://www.youtube.com/watch?v=XlOi2hVGtg0)"
+- "[Mechanisms of SARS-CoV-2 entry into cells](https://www.nature.com/articles/s41580-021-00418-x)"
+# Basic Facts of the Pandemic
 - COVID-19 is a disease caused SARS-CoV-2, or severe acute respiratory syndrome coronavirus-2, originating from Wuhan, China.
 - The first known case was identified in Wuhan, China, in December 8th of 2019.
+## Gain of Function Research
+- Generally refers to any process by which the pathogenesis, transmissibility or host range of an organism is altered (genetically) for research.
+## Key Players
+- [[Peter Daszak]]
 # Basic Microbiology
 - [Explanation](https://www.youtube.com/watch?v=22M2Wh6rQmA) of the spike protein/cleavage site stuff
 - [Video](https://www.youtube.com/watch?v=8nD6Q9X0SFw) that partially explains how the mRNA vaccines work
@@ -22,12 +74,18 @@
 - [The proximal origin of SARS-CoV-2](The proximal origin of SARS-CoV-2), published in Nature
 	- The researchers in this early paper argue that parallel demonstrations of 6 key amino acids in the RBD being present in other similar hosts in Wuhan, in a configuration that was not predicted to be optimal for infection (for binding via ACE2), suggest a common ancestor for the virus.
 	- They also argue that the acquisition of a polybasic cleavage site suggests natural selection occurred over many generations within the presence of an active immune system, which is unlikely to happen in a laboratory setting, especially with no evidence or documentation of any attempt with a particular nucleotide sequence (virus) to do so.
-
+# Challenging Questions
+1. What is the explanation for a and b lineages both showing up for the very first time in the wet market?
+	1. If it came from a lab, why two different variants?
+2. Why were the first cases all found at or around the wet market?
+	1. No one else was infected on the way?
+3. How do you explain the novel backbone used by the SARS-CoV-2 virus?
+	1. It seems like the lableak theory relies on a completely unpublished virus using some novel and unpredicted things, e.g. the FCS location and the particular RBD amino acids.
 # The Rootclaim debate
 - Saar Wilf is an ex-Israeli entrepreneur multi-millionaire who claims to have invented a system of analysis called Rootclaim where he takes bets against predictions made by his system.
 - Peter Miller [took him up on a debate challenge](https://www.astralcodexten.com/p/contra-kavanaugh-on-fideism/comment/12792183) in 2024 concerning his prediction that COVID-19 originated in a lab.
 ## The Debate
-- [Video 1](https://www.youtube.com/watch?v=Y1vaooTKHCM)
+- [Videos](https://www.youtube.com/@tgof137/videos)
 	- In favor of zoonotic
 		- Prior transmission of SARS-CoV-like viruses have happened from animals to humans before.
 		- Seasonally, it's likely that SARS-CoV-2 came in the Winter season, as they often do (due to bat breeding cycles).
@@ -35,8 +93,10 @@
 		- The origination of the virus was ~30 minutes from the lab, from the 9th largest city in China.
 		- There has never been a gain of function lab leak.
 		- Lots of evidence of it being in the market, not much showing up between the lab and the market.
-		- There are a multitude of "lab leak theories", many of which are contradicting in both timelines and facts
+		- There are a multitude of "lab leak theories", many of which are contradicting in both timelines and facts.
 		- 4/5 of the first infected people were all associated with the Wuhan markets.
 		- Markets wouldn't be the best place for a superspreading event, something like a mall would be, purely when analyzing by traffic.
 		- Market is genetically closest to the origination point of SARS-CoV-2.
 		- China removed signs in the wet market related to the sale of wild animals for consumption.
+	- In favor of lableak
+		- Single spill-over event is inconsistent with other zoonotic virus originations, like SARS or HIV

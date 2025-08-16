@@ -1,5 +1,21 @@
 # Purpose
+Even today, there remains this pervasive theory that “conspiracy theorists were right” (JOE ROGAN CLIP and more?) about most of the baseless theories they propagated along the alternative (and mainstream) media networks over the past decade. There are many surrounding COVID and the vaccines, but some are so pervasive that even the left has largely bought into them. I don’t believe there is any theory that has a greater divide between “what is likely true” and “what do most people believe to be true” as the origin theory for SARS-CoV-2.
 # Thesis
+When one accounts for all of the information available, one can say with a high degree of probability that SARS-CoV-2’s first appearance in humans was due to zoonotic spillover at the Huanan Seafood Market in Wuhan, China. All of the available evidence points **heavily** in that direction, and the only convincing evidence against it simply relies on a lack of knowledge about particular facts or education on the part of the listener with regards to how SARS-CoV-2 works.
+
+The reality is, when one steps the heavy politically polluted framing from this question, the origination of SARS-CoV-2 from the seafood market becomes painfully obvious.
+1. The first known infections occurred in the Seafood market, and the pattern of infections spread from there quite predictably in the weeks that followed.
+2. The Huanan Seafood Market is a likely location for such a spillover to occur as it contained the highest number of wild animal selling stalls in all of China.
+3. Testing at the markets allows us to trace with a high degree of probability the exact stalls where the zoonotic spillover likely occurred.
+4. The animals that were kept in this stall were not only theorized to function as host species for these coronaviruses, a scientist had literally taken a trip to exactly this seafood market to the exact stall where these animals were held over 6 years prior and warned about the possibility of a spillover event.
+5. The animals brought to the Huanan Seafood Market were brought in from caves in South China (FACT CHECK SPECIFIC), an area that is a rich reservoir for the types of coronaviruses the infect humans.
+
+The challenges for the lab leak theory are numerous, but the largest challenge for the lab leak theory is that there isn’t even a single lab leak theory. There are many competing theories, some of which are necessarily mutually exclusive of one another, so even getting lab leak proponents to narrate a coherent theory from start to finish is incredibly challenging.
+1. None of the researchers at the WIV were found to have been infected with SARS-CoV-2.
+	1. Not even past samples had tested positive for SARS-CoV-2 for any of the researchers working there.
+2. There are pictures of them going out and eating prior to the start of the pandemic, **after** they would have certainly been infected, if they had been infected secretly without anyone knowing.
+3. The WIV was a 12 mile distance from the HSM.
+	1. How did they manage to not infect anyone along the way? And no one in their personal lives? Or anyone else they could have come into contact with once they’d left the lab and the seafood market?
 # Background
 ## [SARS-CoV-2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9839213/)
 ### Naming
@@ -110,29 +126,23 @@ Project DEFUSE was involved in studying a broad array of things related to coron
 ## Key Players
 - [[Peter Daszak]]
 # The Case for Zoonotic Origin
-## Reasons For Market Leak
-1. You expect to see it in HSM
-	1. Most number of wild animal selling stalls.
-	2. Animals that contain human-like virus'.
 ## Challenging Questions for Lab Leakers
 1. What is the explanation for a and b lineages both showing up for the very first time in the wet market?
 	1. If it came from a lab, why two different variants?
 2. There has never been a gain of function lab leak before, this would have to be the first one.
-3. Why were the first cases all found at or around the wet market?
-	1. No one else was infected on the way? Why didn't cases continue to grow outside of the market after someone infected someone at the market?
-4. How do you explain the novel backbone used by the SARS-CoV-2 virus?
+3. How do you explain the novel backbone used by the SARS-CoV-2 virus?
 	1. It seems like the lab leak theory relies on a completely unpublished virus using some novel and unpredicted things, e.g. the FCS location and the particular RBD amino acids.
-5. Why did the virus spread at the wet market first, when other origin sites would have made more sense?
-6. The FCS add was added out of frame, using a leading residue that isn't typically used in experiments (SARS-CoV-2 has Proline or Alanine before the RxxR site).
-7. Why are all of the earliest cases connected to the market? Why weren't early clusters surrounding the lab? Or in a mall or some other more densely populated place?
+4. Why did the virus spread at the wet market first, when other origin sites would have made more sense?
+5. The FCS add was added out of frame, using a leading residue that isn't typically used in experiments (SARS-CoV-2 has Proline or Alanine before the RxxR site).
+6. Why are all of the earliest cases connected to the market? Why weren't early clusters surrounding the lab? Or in a mall or some other more densely populated place?
 	1. FIND EXACT FIGURES
-8. How do you explain easy, early mutations that appear in a single *in vivo* generation like D614G?
-9. Why were Shi Zhengli and other scientists going out to eat in December and traveling if they thought they were infected by a lab-leaked virus?
-10. Why did they even publish RaTG13, the closets coronavirus to SARS-CoV-2? Why is it only 96% similar?
+7. How do you explain easy, early mutations that appear in a single *in vivo* generation like D614G?
+8. Why were Shi Zhengli and other scientists going out to eat in December and traveling if they thought they were infected by a lab-leaked virus?
+9. Why did they even publish RaTG13, the closets coronavirus to SARS-CoV-2? Why is it only 96% similar?
 	1. This was published after SARS-CoV-2 was sequenced.
-11. Why haven't there been more SARS-CoV-2 leaks since so many new labs are working on it now, with even more infectious strains?
-12. Why did the sampling in the HSM bias where the raccoon dogs were found?
-13. Why did no retroactive samples show SARS-CoV-2 infections occurring prior to the earliest cases detected at the HSM?
+10. Why haven't there been more SARS-CoV-2 leaks since so many new labs are working on it now, with even more infectious strains?
+11. Why did the sampling in the HSM bias where the raccoon dogs were found?
+12. Why did no retroactive samples show SARS-CoV-2 infections occurring prior to the earliest cases detected at the HSM?
 	1. ZO debate 1, slide 116 - Wuhan, Baidu data shows very little signal for symptoms of a circulating coronavirus prior to December
 	2. ZO debate 1, slide 114 - Wuhan, 3850 blood bank samples from Sep-Dec 2019 show no positives for antibodies
 	3. ZO debate 1, slide 113 - Wuhan, 640 throat swabs Oct 6th - Jan 21st 2020. No positives in 2019, 9 in 2020.

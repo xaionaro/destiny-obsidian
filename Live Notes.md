@@ -28,8 +28,3 @@ Things to create notes on
 - Che Guevara
 - El Salvador Gangs
 ________
-
-
-
-
-
